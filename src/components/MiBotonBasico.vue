@@ -11,6 +11,4 @@ const etiqueta = ref(props.etiqueta);
 </script>
 
 <style>
-
-
 </style>
